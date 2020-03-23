@@ -1,4 +1,5 @@
 # Machine-Learning
 A collection of Machine Learning examples in Python with sklearn and tensorflow.
-Open them with jupyter notebook locally or on the web browser 
-with google colab
+
+The tensorflow examples are in the tensorflow folder, all the rest are models made with sklearn.
+What these models consist of are mostly of data exploration. Once the data is formatted succesfully it can be passed to a model in order to predict one or more of its carachteristics.
